@@ -1,0 +1,17 @@
+C:\Users\Abubakar\Desktop\YahooSignIn\bin\Debug\YahooSignIn.exe.config
+C:\Users\Abubakar\Desktop\YahooSignIn\bin\Debug\YahooSignIn.exe
+C:\Users\Abubakar\Desktop\YahooSignIn\bin\Debug\YahooSignIn.pdb
+C:\Users\Abubakar\Desktop\YahooSignIn\obj\Debug\YahooSignIn.csprojAssemblyReference.cache
+C:\Users\Abubakar\Desktop\YahooSignIn\obj\Debug\login.g.cs
+C:\Users\Abubakar\Desktop\YahooSignIn\obj\Debug\MainWindow.g.cs
+C:\Users\Abubakar\Desktop\YahooSignIn\obj\Debug\App.g.cs
+C:\Users\Abubakar\Desktop\YahooSignIn\obj\Debug\YahooSignIn_MarkupCompile.cache
+C:\Users\Abubakar\Desktop\YahooSignIn\obj\Debug\YahooSignIn_MarkupCompile.lref
+C:\Users\Abubakar\Desktop\YahooSignIn\obj\Debug\login.baml
+C:\Users\Abubakar\Desktop\YahooSignIn\obj\Debug\MainWindow.baml
+C:\Users\Abubakar\Desktop\YahooSignIn\obj\Debug\YahooSignIn.g.resources
+C:\Users\Abubakar\Desktop\YahooSignIn\obj\Debug\YahooSignIn.Properties.Resources.resources
+C:\Users\Abubakar\Desktop\YahooSignIn\obj\Debug\YahooSignIn.csproj.GenerateResource.cache
+C:\Users\Abubakar\Desktop\YahooSignIn\obj\Debug\YahooSignIn.csproj.CoreCompileInputs.cache
+C:\Users\Abubakar\Desktop\YahooSignIn\obj\Debug\YahooSignIn.exe
+C:\Users\Abubakar\Desktop\YahooSignIn\obj\Debug\YahooSignIn.pdb

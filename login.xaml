@@ -1,0 +1,40 @@
+﻿<Page x:Class="YahooSignIn.login"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:YahooSignIn"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="login">
+   
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label Content="Yahoo Sign in" FontSize="50" FontWeight="Black" Grid.Row="0" Grid.ColumnSpan="2"></Label>
+        <Label Content="Username:" Grid.Row="1" FontSize="40" ></Label>
+        <Label Content="Password:" Grid.Row="2" FontSize="40" ></Label>
+        <TextBox x:Name="usname" Grid.Row="1" Grid.Column="1" FontSize="30"></TextBox>
+        <PasswordBox x:Name="pass" Grid.Row="2" Grid.Column="1" FontSize="30"></PasswordBox>
+
+        <TextBlock Grid.Row="3" Grid.Column="0" FontSize="24">
+
+<Hyperlink  NavigateUri="MainWindow.xaml" RequestNavigate="Hyperlink_RequestNavigate">
+Create Account
+</Hyperlink >
+        </TextBlock>
+        <Button x:Name="log" Content="Sign In" Grid.Row="3" Grid.Column="1" FontSize="30" Click="Log_Click"></Button>
+        <Label x:Name="uns" Content="Invalid username or password..." FontSize="15" FontWeight="ExtraBlack" Background="Red" Grid.Column="2" Grid.Row="3" Visibility="Hidden"></Label>
+        <Label x:Name="loginsss" Content="Login Successful.." FontSize="15" FontWeight="ExtraBlack" Background="ForestGreen" Grid.Column="2" Grid.Row="3" Visibility="Hidden"></Label>
+
+    </Grid>
+</Page>
